@@ -97,6 +97,8 @@ Product Quality      documentation, deployment, observability, testing
 </a>
 </div>
 
+<img src="docs/assets/hikaflow-dashboard.png" width="100%" />
+
 <p>
 AI-assisted engineering workflow backend for repository intelligence, assistant orchestration, reporting, billing, organizations, integrations, and production API delivery.
 </p>
@@ -116,6 +118,8 @@ AI-assisted engineering workflow backend for repository intelligence, assistant 
   <img src="https://img.shields.io/badge/hikaflow--fe-Product%20Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827" />
 </a>
 </div>
+
+<img src="docs/assets/hikaflow-assistant.png" width="100%" />
 
 <p>
 Production product interface for dashboards, workflow screens, onboarding, pricing, AI-assisted engineering operations, responsive states, and polished user journeys.
@@ -179,6 +183,8 @@ Go realtime backend with WebSocket chat, JWT middleware, Redis-backed models, mi
   <img src="https://img.shields.io/badge/Dexifier-Web3%20Swap%20Interface-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=F0ABFC&labelColor=111827" />
 </a>
 </div>
+
+<img src="docs/assets/dexifier-swap.png" width="100%" />
 
 <p>
 Swap interface for wallet and no-wallet flows, token selection, route handling, provider state, settings, transaction history, and responsive Web3 product UX.
