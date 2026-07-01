@@ -85,149 +85,167 @@ Product Quality      documentation, deployment, observability, testing
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
+<div align="center">
 <h3>Hikaflow Backend</h3>
 
 <a href="https://github.com/angelskydiver/hikaflow-be">
   <img src="https://img.shields.io/badge/hikaflow--be-AI%20Workflow%20Backend-0D1117?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=111827" />
 </a>
+</div>
 
 <p>
-AI-assisted engineering workflow backend with reporting, billing, repository intelligence, assistant flows, organization features, and integrations.
+AI-assisted engineering workflow backend for repository intelligence, assistant orchestration, reporting, billing, organizations, integrations, and production API delivery.
 </p>
 
 <img src="https://img.shields.io/badge/Backend-TypeScript-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Architecture-Modular%20Services-4F46E5?style=flat-square" />
 <img src="https://img.shields.io/badge/API-Platform-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-AI-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Orchestration-0891B2?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
+<div align="center">
 <h3>Hikaflow Frontend</h3>
 
 <a href="https://github.com/angelskydiver/hikaflow-fe">
   <img src="https://img.shields.io/badge/hikaflow--fe-Product%20Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827" />
 </a>
+</div>
 
 <p>
-Product interface for dashboards, workflow screens, pricing flows, user journeys, and AI-assisted engineering operations.
+Production product interface for dashboards, workflow screens, onboarding, pricing, AI-assisted engineering operations, responsive states, and polished user journeys.
 </p>
 
 <img src="https://img.shields.io/badge/Frontend-React-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Product-UX-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Product-System%20UX-8B5CF6?style=flat-square" />
 <img src="https://img.shields.io/badge/Dashboard-UI-10B981?style=flat-square" />
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
+<div align="center">
 <h3>MicroMart</h3>
 
 <a href="https://github.com/angelskydiver/MicroMart">
   <img src="https://img.shields.io/badge/MicroMart-Java%20Microservices-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=111827" />
 </a>
+</div>
 
 <p>
-Java microservices ecosystem with authentication, users, jobs, file storage, notifications, gateway, configuration, discovery, Docker deployment, and production documentation.
+Java microservices ecosystem with authentication, users, jobs, file storage, notifications, gateway routing, service discovery, centralized configuration, Docker deployment, and operational documentation.
 </p>
 
 <img src="https://img.shields.io/badge/Java-Spring%20Boot-F97316?style=flat-square" />
 <img src="https://img.shields.io/badge/Architecture-Microservices-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-Service%20Discovery-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Deployment-Docker-0891B2?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
+<div align="center">
 <h3>RelayGO</h3>
 
 <a href="https://github.com/angelskydiver/RelayGO">
   <img src="https://img.shields.io/badge/RelayGO-Go%20Realtime%20Backend-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=111827" />
 </a>
+</div>
 
 <p>
-Go realtime backend with WebSocket chat, JWT middleware, Redis models, migrations, rate limiting, observability, and deployment documentation.
+Go realtime backend with WebSocket chat, JWT middleware, Redis-backed models, migrations, rate limiting, observability, deployment notes, and low-latency service structure.
 </p>
 
 <img src="https://img.shields.io/badge/Go-Realtime-00ADD8?style=flat-square" />
 <img src="https://img.shields.io/badge/WebSocket-Chat-10B981?style=flat-square" />
 <img src="https://img.shields.io/badge/Redis-Data-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Observability-Ready-7C3AED?style=flat-square" />
 
 </td>
 </tr>
-</table>
-
----
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
-
-## Web3 Product Interfaces
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### Dexifier
+<h3>Dexifier</h3>
 
 <a href="https://github.com/angelskydiver/Dexifier">
   <img src="https://img.shields.io/badge/Dexifier-Web3%20Swap%20Interface-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=F0ABFC&labelColor=111827" />
 </a>
+</div>
 
-Swap interface for wallet and no-wallet flows, token selection, routing, provider state, settings, transaction history, and responsive Web3 UX.
+<p>
+Swap interface for wallet and no-wallet flows, token selection, route handling, provider state, settings, transaction history, and responsive Web3 product UX.
+</p>
+
+<img src="https://img.shields.io/badge/Web3-Swap%20UX-F0ABFC?style=flat-square" />
+<img src="https://img.shields.io/badge/Wallet-Flows-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Product-Responsive-06B6D4?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Explorer
+<div align="center">
+<h3>Explorer</h3>
 
 <a href="https://github.com/angelskydiver/Explorer">
   <img src="https://img.shields.io/badge/Explorer-Blockchain%20Analytics%20UI-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=111827" />
 </a>
+</div>
 
-Explorer-style frontend with search, transaction detail pages, statistics dashboards, Sankey charts, tables, filters, and mobile navigation.
+<p>
+Explorer-style frontend with global search, transaction detail pages, statistics dashboards, Sankey charts, data tables, filters, and mobile navigation.
+</p>
+
+<img src="https://img.shields.io/badge/Next.js-Analytics%20UI-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Charts-Sankey-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Search-Explorer-2563EB?style=flat-square" />
 
 </td>
 </tr>
-</table>
-
----
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
-
-## Data Science & Process Analytics
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### Data_Preprocessing
+<h3>Data_Preprocessing</h3>
 
 <a href="https://github.com/angelskydiver/Data_Preprocessing">
   <img src="https://img.shields.io/badge/Data_Preprocessing-ML%20Data%20Workflows-0D1117?style=for-the-badge&logo=python&logoColor=FACC15&labelColor=111827" />
 </a>
+</div>
 
+<p>
 Practical preprocessing workflows covering missing data, outliers, Mahalanobis distance, robust covariance, Lasso, wrapper selection, signal denoising, and regression datasets.
+</p>
+
+<img src="https://img.shields.io/badge/Python-Data%20Pipelines-FACC15?style=flat-square" />
+<img src="https://img.shields.io/badge/ML-Preprocessing-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Quality-Feature%20Selection-10B981?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Statistical-Process
+<div align="center">
+<h3>Statistical-Process</h3>
 
 <a href="https://github.com/angelskydiver/Statistical-Process">
   <img src="https://img.shields.io/badge/Statistical--Process-Process%20Analytics-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=111827" />
 </a>
+</div>
 
+<p>
 Statistical process monitoring with Shewhart, EWMA, CUSUM, PCA, PLS, fault detection, diagnosis, and industrial process case studies.
+</p>
+
+<img src="https://img.shields.io/badge/Jupyter-Analytics-F37626?style=flat-square" />
+<img src="https://img.shields.io/badge/SPC-Monitoring-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Diagnosis-Fault%20Detection-DC2626?style=flat-square" />
 
 </td>
 </tr>
@@ -244,28 +262,69 @@ Statistical process monitoring with Shewhart, EWMA, CUSUM, PCA, PLS, fault detec
 ```mermaid
 mindmap
   root((Angelskydiver))
-    AI Workflow Platforms
+    Production AI Platforms
       Hikaflow Backend
+        Assistant orchestration
+        Repository intelligence
+        Usage and billing flows
+        Organization workspaces
+        Reporting automation
+        Integration boundaries
       Hikaflow Frontend
-      Repository Intelligence
-      Reporting Automation
-    Backend Systems
-      Microservices
-      Realtime APIs
-      WebSockets
-      Redis
-      PostgreSQL
-    Product Frontends
-      Dashboards
-      Web3 Interfaces
-      Explorer UX
-      Responsive Design
-    Data Analytics
-      Preprocessing
-      PCA
-      PLS
-      Fault Detection
-      Statistical Monitoring
+        Dashboard systems
+        Workflow UX
+        Pricing and onboarding
+        State management
+        Responsive delivery
+        Product polish
+    Distributed Backend Systems
+      MicroMart
+        Spring Boot services
+        API gateway
+        Service discovery
+        Auth and identity
+        File and notification services
+        Dockerized deployment
+      RelayGO
+        Go services
+        WebSocket messaging
+        JWT middleware
+        Redis models
+        Rate limiting
+        Observability hooks
+    Web3 Product Engineering
+      Dexifier
+        Swap UX
+        Wallet and no-wallet flows
+        Token selection
+        Provider state
+        Transaction history
+      Explorer
+        Blockchain search
+        Transaction detail
+        Statistics dashboards
+        Sankey visualizations
+        Filterable data tables
+    Data and Statistical Intelligence
+      Data_Preprocessing
+        Missing data strategy
+        Outlier detection
+        Robust covariance
+        Feature selection
+        Signal denoising
+      Statistical-Process
+        Shewhart charts
+        EWMA and CUSUM
+        PCA and PLS
+        Fault detection
+        Industrial diagnosis
+    Engineering Discipline
+      Clean architecture
+      Testable boundaries
+      Documentation
+      Deployment thinking
+      Observability
+      Maintainable systems
 ```
 
 ---
@@ -280,6 +339,21 @@ mindmap
 <br /><br />
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=angelskydiver&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=F97316&area=true" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Engineering%20Timeline-2014%20to%20Present-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Systems-Production%20Scale-4F46E5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Full%20Stack%20%2B%20AI%20%2B%20Data-06B6D4?style=for-the-badge&logo=codemagic&logoColor=white" />
+
+<table>
+<tr>
+<td align="center"><b>2014-2017</b><br />Programming foundations<br />Algorithms, web basics, databases</td>
+<td align="center"><b>2018-2020</b><br />Full-stack delivery<br />APIs, UI systems, deployment habits</td>
+<td align="center"><b>2021-2023</b><br />Product engineering<br />Dashboards, Web3 UX, realtime flows</td>
+<td align="center"><b>2024-Present</b><br />Production platforms<br />AI workflows, microservices, analytics</td>
+</tr>
+</table>
 
 </div>
 
