@@ -142,6 +142,8 @@ Production product interface for dashboards, workflow screens, onboarding, prici
 </a>
 </div>
 
+<img src="docs/assets/micromart-architecture.svg" width="100%" />
+
 <p>
 Java microservices ecosystem with authentication, users, jobs, file storage, notifications, gateway routing, service discovery, centralized configuration, Docker deployment, and operational documentation.
 </p>
@@ -161,6 +163,8 @@ Java microservices ecosystem with authentication, users, jobs, file storage, not
   <img src="https://img.shields.io/badge/RelayGO-Go%20Realtime%20Backend-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=111827" />
 </a>
 </div>
+
+<img src="docs/assets/relaygo-realtime.svg" width="100%" />
 
 <p>
 Go realtime backend with WebSocket chat, JWT middleware, Redis-backed models, migrations, rate limiting, observability, deployment notes, and low-latency service structure.
@@ -205,6 +209,8 @@ Swap interface for wallet and no-wallet flows, token selection, route handling, 
 </a>
 </div>
 
+<img src="docs/assets/explorer-analytics.svg" width="100%" />
+
 <p>
 Explorer-style frontend with global search, transaction detail pages, statistics dashboards, Sankey charts, data tables, filters, and mobile navigation.
 </p>
@@ -226,6 +232,8 @@ Explorer-style frontend with global search, transaction detail pages, statistics
 </a>
 </div>
 
+<img src="docs/assets/data-preprocessing-pipeline.svg" width="100%" />
+
 <p>
 Practical preprocessing workflows covering missing data, outliers, Mahalanobis distance, robust covariance, Lasso, wrapper selection, signal denoising, and regression datasets.
 </p>
@@ -244,6 +252,8 @@ Practical preprocessing workflows covering missing data, outliers, Mahalanobis d
   <img src="https://img.shields.io/badge/Statistical--Process-Process%20Analytics-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=111827" />
 </a>
 </div>
+
+<img src="docs/assets/statistical-process-monitoring.svg" width="100%" />
 
 <p>
 Statistical process monitoring with Shewhart, EWMA, CUSUM, PCA, PLS, fault detection, diagnosis, and industrial process case studies.
